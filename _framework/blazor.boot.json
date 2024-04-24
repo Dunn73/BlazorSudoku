@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorSudokuApp",
   "resources": {
-    "hash": "sha256-4KdeY2clhC0x5wX2Q8EKIj6e1VMqNMqOQc61H7ijsbo=",
+    "hash": "sha256-ZowKgikuK9k4oCz6d1vEEnDzXl9EkpSvGhuTupUcmFE=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.x7bi9x34u2.js": "sha256-K56eynq1zCEPrRYXSCo8FtLw3bp1q+VEI2IsXAmYDYY="
     },
@@ -18,7 +18,7 @@
     },
     "assembly": {
       "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
-      "BlazorSudokuApp.wasm": "sha256-9XRLlZSlO3E+pN1SxVJrzevx6h2SQUO5htQS3/4e9Vs=",
+      "BlazorSudokuApp.wasm": "sha256-/8WqhB1O7Fy3ajI0UGdmpI6pjd9QmV2ZnMzQ90SYLDw=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-9D6e39jNSYtlJ3R4+AQmTEwCIzLPq31odLKUGbqIruQ=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-AJrpIWzNwCdksDByGDWBCnoNGa9TDk+P97lxr41mDpM=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-mwwNz/IMHU35BqhBaez63Z01g22S/iPHUXLcAMuyQL4=",
